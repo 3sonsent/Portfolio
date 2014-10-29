@@ -1,0 +1,76 @@
+html {
+
+	background-image: url("background.jpg");
+	
+	
+	
+	
+	}
+body {
+
+
+		font-family: 'Lato', sans-serif;
+		}
+		
+h1 { 
+
+		background-color: grey;
+		text-align: center;
+		
+		
+		
+		
+		}
+p {
+			text-align: auto;
+			font-size: 20px;
+			
+			
+			
+			}
+		
+#me { 
+
+		width: 200px;
+		
+		
+		}
+	
+footer {
+
+		text-align: center;
+		position: fixed;
+		bottom:0px;
+		
+		}
+
+ footer li {
+		list-style-type: none;
+        /*background-color: white;*/
+        display:inline;
+		padding:10px;
+		margin:40px;
+		
+		
+		}
+		
+footer li a { 
+	
+		text-decoration:none;
+		color:blue;
+		background-color:transparent;
+		font-size:20px;
+		font-weight:bold;
+		
+				}
+				
+ footer li a:hover {
+  color: grey ;
+  
+}
+
+	
+
+
+}
+	
